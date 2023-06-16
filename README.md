@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TraoreASRazack1
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Django
+- 🌱 I’m currently coding with Flutter
+- 💞️ I’m looking to collaborate on mobile development
 - 📫 How to reach me by my mail
 
 <!---
